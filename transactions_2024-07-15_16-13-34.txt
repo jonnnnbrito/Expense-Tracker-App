@@ -1,0 +1,43 @@
+Current Balance: 899,967,759.55
+Initial Balance: 100,000.00
+
+Transactions Record: 
+2024-07-15 E -100,000.00 Rent
+2024-03-12 I 897.50 Grocery shopping
+2023-11-28 E -1,250.00 Car repair
+2023-05-06 I 3,200.00 Salary
+2022-08-22 E -65.80 Coffee and snacks
+2021-12-31 I 1,500.00 Bonus
+2021-04-15 E -350.00 Online shopping
+2020-10-10 I 250.00 Gift from friend
+2020-09-19 I 500.00 no
+2020-06-03 E -1,800.00 Rent
+2019-11-19 I 4,850.00 Investment income
+2019-07-25 E -230.50 Restaurant meal
+2019-02-02 I 2,000.00 hehe
+2019-02-02 E -20,000.00 Yes
+2018-09-01 E -95.00 Haircut
+2018-02-14 I 80.00 Rebate on purchase
+2017-06-28 I 1,200.00 Freelance project payment
+2017-01-08 E -520.00 Gym membership fee
+2016-05-19 I 35.00 Sold old books online
+2015-12-02 E -75.00 Movie tickets
+2015-08-29 I 980.00 Side hustle income
+2014-03-17 I 6,000.00 Tax refund
+2013-09-26 E -4,200.00 Vacation expenses
+2013-01-12 I 1,100.00 Dividend payment
+2012-07-04 E -80.00 Charity donation
+2011-10-21 E -285.75 Medical bill
+2010-05-30 I 5,000.00 Inheritance
+2009-12-18 E -150.00 Holiday gifts
+2009-04-09 I 2,300.00 Sale of old furniture
+2008-08-05 I 180.00 Reimbursement for work expense
+2007-02-22 E -3,000.00 Down payment on car
+2006-06-11 I 75.00 Found money on the street
+2005-01-25 E -120.00 Subscription service fee
+2004-09-16 E -680.00 Home repair
+2003-05-23 I 450.00 Babysitting income
+2002-11-07 I 900.00 Won a small lottery prize
+2001-07-19 E -55.00 Parking ticket
+2000-03-28 E -3,800.00 Tuition payment
+1998-09-22 I 900,000,000.00 JJ Birthday
